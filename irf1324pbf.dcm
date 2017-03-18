@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF1324PBF
+D 24V Vds, 353A Id, HEXFET N-Channel MOSFET, TO-220
+K HEXFET N-Channel MOSFET
+F http://www.mouser.com/ds/2/196/irf1324pbf-937280.pdf
+$ENDCMP
+#
+#End Doc Library
